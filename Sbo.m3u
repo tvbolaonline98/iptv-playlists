@@ -106,6 +106,36 @@ https://best2.globalweb.ru.com/cdn/premium90/mono.m3u8
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium46/mono.m3u8
 
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium41/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://best2.globalweb.ru.com/cdn/premium42/mono.m3u8
+
 
 
 =========TV LOKAL=========
