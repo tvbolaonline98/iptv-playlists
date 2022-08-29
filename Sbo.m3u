@@ -218,6 +218,8 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium98/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CwlNjXQ.png" ,beIN Sports Premium 1
 http://31.172.87.52:2200//EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 
@@ -225,6 +227,8 @@ http://31.172.87.52:2200//EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium99/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ns7isEP.png" ,beIN Sports Premium 2
 http://31.172.87.52:2200//EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 
@@ -232,84 +236,112 @@ http://31.172.87.52:2200//EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3n
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium100/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/T7UlxCI.png" ,beIN Sports Premium 3
 http://31.172.87.52:2200//EX/bein10sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png" ,beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium91/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png" ,beIN Sports 1
 http://31.172.87.52:2200//EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png" ,beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium92/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png" ,beIN Sports 2
 http://31.172.87.52:2200//EX/bein2sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j8VC6nB.png" ,beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium93/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j8VC6nB.png" ,beIN Sports 3
 http://31.172.87.52:2200//EX/bein3sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Lu26Yho.png" ,beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium94/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Lu26Yho.png" ,beIN Sports 4
 http://31.172.87.52:2200//EX/bein4sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pA5by2y.png",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium95/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pA5by2y.png",beIN Sports 5
 http://31.172.87.52:2200//EX/bein5sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/mbFoSUX.png" ,beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium96/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/mbFoSUX.png" ,beIN Sports 6
 http://31.172.87.52:2200//EX/bein6sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/eHCosqi.png" ,beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium97/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/eHCosqi.png" ,beIN Sports 7
 http://31.172.87.52:2200//EX/bein7sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium61/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
 http://31.172.87.52:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium90/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
 http://31.172.87.52:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium46/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
 http://31.172.87.52:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png" ,beIN Sports 1 HD France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium116/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png" ,beIN Sports 1 HD France
 http://31.172.87.52:2200//EX/bein14sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png" ,beIN Sports 2 HD France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium117/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png" ,beIN Sports 2 HD France
 http://31.172.87.52:2200//EX/bein15sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j8VC6nB.png" ,beIN Sports 3 France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://ad2017.vhls.ru.com/cdn/premium118/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j8VC6nB.png" ,beIN Sports 3 France
 http://31.172.87.52:2200//EX/bein16sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png" ,beIN Sports 1 Türkiye
