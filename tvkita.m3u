@@ -1,15 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg.xml,https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/et/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fi/telkussa.fi.epg.xml,https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/il/9tv.co.il.epg.xml,https://iptv-org.github.io/epg/guides/il/i24news.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/mt/melita.com.epg.xml,https://iptv-org.github.io/epg/guides/mw/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/se/tv.nu.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tz/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" refresh="3600"
 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/et/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fi/telkussa.fi.epg.xml,https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/il/9tv.co.il.epg.xml,https://iptv-org.github.io/epg/guides/il/i24news.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/mt/melita.com.epg.xml,https://iptv-org.github.io/epg/guides/mw/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/se/tv.nu.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tz/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
-
-
-
-
-
-
-
-
-========LIVE FOOTBALL=========
 
 
 
@@ -20,6 +10,35 @@
 
 
 ========LIGA INDO LIVE============
+
+
+
+
+
+
+
+
+
+
+
+
+
+========INDONESIA=========
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tvn.x10.mx/live/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tvn.x10.mx/live/master.m3u8
+
+
+
+
+
+
 
 
 
@@ -112,7 +131,7 @@ https://stream-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8|referer=https://m.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -121,7 +140,7 @@ https://stream-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" ,iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|referer=https://m.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/sDmXVSm.png",ANTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -187,7 +206,8 @@ http://tvn.x10.mx/live/master-13.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR
-http://tvn.x10.mx/live/master.m3u8|user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://tvn.x10.mx/live/master.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -223,7 +243,18 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-name="Useesport" tvg-logo="https://images.useetv.com/logo_useesport_small.png?v=4.3" group-title="SPORTS",Useesport
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1 tvg-name="Useesport2" tvg-logo="https://images.useetv.com/logo_useesports2_small.png?v=1.2" group-title="SPORTS",Useesport2
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+http://iptvid.my.id/hmm/useetl2.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://yt3.ggpht.com/a/AATXAJzsYcFPP9EAvwuj7zrIRcvrKMm-VFKPlkZhMg=s900-c-k-c0xffffffff-no-rj-mo",LFCTV
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
 http://tvn.x10.mx/live/master-31.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAw2mWsEpaI4qDh_Q8IF2jTgm2CQLXNRR4_1rg=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS",Barca TV
@@ -948,7 +979,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpubyhmB_613966fbf1584.png" group-title="SPORTS",ON Football
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="SPORTS" ,VTVCab3 - On Sports
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpLhy8IQ_613966bf6fda5.png" group-title="SPORTS" ,On Sports
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpI5Z2Qu_60d191d31bb2a.png" group-title="SPORTS",ON Sports +
@@ -1040,8 +1071,7 @@ http://cdnua06.hls.tv/476/hls/124368qulm0eovzsrxtdky5hcwfj7pna/3999/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235683_ico.png?ts=1662560735
-" group-title="SPORTS",Match Premier 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20235683_ico.png?ts=1662560735" group-title="SPORTS",Match Premier 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.gl7BLLodYvRAEaH434TsaQHaHa?pid=ImgDet&rs=1" group-title="SPORTS",Match Football 1
@@ -1610,30 +1640,39 @@ http://61.19.242.134/feed/202105171329/chnation/index.m3u8
 http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.9tana.com/wp-content/uploads/2016/02/true4utv.jpg" group-title="TV DUNIA" ,TRUE4U
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thestandard.co/wp-content/uploads/2019/05/COVER-WEB-33.jpg" group-title="TV DUNIA" ,GMM25
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.citylife.group/wp-content/uploads/imported/citynews/1404999041.png" group-title="TV DUNIA" ,CH 8
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/ch8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="TV DUNIA" , MONO 29
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MnD5AKZyDoL4dVGDzp5apwAAAA?pid=ImgDet&rs=1" group-title="TV DUNIA" ,MCOT
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3wzmO5ATRabJuIYUYZfilQHaEL?pid=ImgDet&w=600&h=338&rs=1" group-title="TV DUNIA" ,ONE 31
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Thai_TV_Channel_3.png/revision/latest?cb=20180109053431" group-title="TV DUNIA" ,CH 3
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwvIMYbXMtU57AhizFABgjuYLgf-AxGYl65zIYE=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV DUNIA" ,AMARIN
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="TV DUNIA" ,BBTV CH 7
+#EXTVLCOPT:http-user-agent=user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
 
 
@@ -2902,7 +2941,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="mtvhd" tvg-logo="http://mtvwe.com/images/logo.png?r=12413" group-title="MUSIC" , MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/kpopsexy.png" group-title="Kênh MUSIC" ,Sexy Kpop TV
+#EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/kpopsexy.png" group-title="MUSIC" ,Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="MUSIC" ,1HD Music
