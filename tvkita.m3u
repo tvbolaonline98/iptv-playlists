@@ -28,7 +28,7 @@
 
 #EXTINF:-1 group-title="🇲🇨INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tvn.x10.mx/live/master.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001663352699-0-0-84e201869e47091c2a8401af918278cf
 
 #EXTINF:-1 group-title="🇲🇨INDONESIA" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
